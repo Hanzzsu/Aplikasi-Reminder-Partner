@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Reminder Partner</string>
+        <string name="tambah_aktivitas">Add Activity</string>
+        <string name="nama">Nama</string>
+        <string name="aktivitas">New</string>
+    <string name="list_title">ReminderPartner</string>
+    <string name="calendar_title">Calendar</string>
+    <string name="profile_title">Profile</string>
+    <string name="pilih_waktu">Pick a time</string>
+</resources>

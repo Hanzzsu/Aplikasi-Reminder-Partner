@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Google</string>
+    <string name="login">Sign in with Google</string>
+    <string name="lainnya">Opsi lainnya</string>
+    <string name="logout">Exit</string>
+    <string name="language">Language</string>
+
+</resources>
